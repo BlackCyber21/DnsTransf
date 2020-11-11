@@ -1,6 +1,8 @@
 # DnsTransf
 Para tentar realizar transferencia de zona em um determinado dominio
 
+# Para uma saida legivel leia em RAW
+
 ./DnsTransf.sh 
 
 		 ____              _____                         __
